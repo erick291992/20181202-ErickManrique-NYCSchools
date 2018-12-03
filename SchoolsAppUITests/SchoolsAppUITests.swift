@@ -1,10 +1,6 @@
 //
-//  SchoolsAppUITests.swift
-//  SchoolsAppUITests
-//
-//  Created by Erick Manrique on 3/14/18.
-//  Copyright © 2018 Erick Manrique. All rights reserved.
-//
+//  School.swift
+//  SchoolsApp
 
 import XCTest
 
